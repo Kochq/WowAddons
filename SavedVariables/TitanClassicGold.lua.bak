@@ -1,0 +1,14 @@
+
+GoldSave = {
+[""] = {
+["show"] = true,
+["gold"] = 0,
+["name"] = "Sorp",
+["faction"] = "Other",
+},
+["Sorp_Nightslayer::Alliance"] = {
+["show"] = true,
+["name"] = "Sorp",
+["gold"] = 8857,
+},
+}

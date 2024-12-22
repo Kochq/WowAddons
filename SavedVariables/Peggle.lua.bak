@@ -1,0 +1,109 @@
+
+PeggleData = {
+["loggedIn"] = "Sorp",
+["settings"] = {
+["highFPS"] = false,
+["openLogIn"] = false,
+["openDeath"] = false,
+["hideOutdated"] = false,
+["closeCombat"] = true,
+["showMinimapIcon"] = true,
+["mouseOnTrans"] = 1,
+["inviteRaid"] = false,
+["openDuel"] = true,
+["defaultPublish"] = "GUILD",
+["closeReadyCheck"] = true,
+["minimapAngle"] = 42,
+["closeDuelComplete"] = false,
+["soundVolume"] = 0,
+["openFlightStart"] = false,
+["inviteDecline"] = false,
+["closeFlightEnd"] = false,
+["inviteMinimap"] = true,
+["inviteChat"] = true,
+["closePeggleLoot"] = false,
+["mouseOffTrans"] = 0.6,
+},
+["newData"] = {
+["levelScores"] = {
+{
+["score"] = 170450,
+["progress"] = 2,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 35560,
+["progress"] = 1,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 41550,
+["progress"] = 1,
+},
+{
+["score"] = 50620,
+["progress"] = 1,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 32890,
+["progress"] = 1,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+{
+["score"] = 0,
+["progress"] = 0,
+},
+},
+["talentData"] = {
+["activated"] = {
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+},
+},
+},
+["recent"] = {
+170450,
+[5] = 41550,
+[6] = 50620,
+[8] = 32890,
+[3] = 35560,
+},
+["legalDisplayed"] = true,
+["version"] = 2.2,
+["minimap"] = {
+},
+}
